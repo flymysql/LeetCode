@@ -1,191 +1,191 @@
-## Leetcode ????
+## Leetcode 刷题汇总
 
-?? 25/1000
+进度 25/1000
 
-???python????c++
+用时用python，有时用c++
 
-- [python](/????_python)
-- [c++](/????_cpp)
+- [python](/日常刷题_python)
+- [c++](/日常刷题_cpp)
 
-## ??????
+## 部分题目列表
 
 
-- [????](https://leetcode-cn.com/problems/two-sum)����
+- [两数之和](https://leetcode-cn.com/problems/two-sum)    
 
 
-- [????](https://leetcode-cn.com/problems/add-two-numbers)����
+- [两数相加](https://leetcode-cn.com/problems/add-two-numbers)    
 
-- [](https://leetcode-cn.com/articles/add-two-numbers)33.8%??3
+- [](https://leetcode-cn.com/articles/add-two-numbers)33.8%中等3
 
-- [??????????](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)���
+- [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)   
 
-- [????????????](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)����
+- [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)    
 
-- [??????](https://leetcode-cn.com/problems/longest-palindromic-substring)����
+- [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring)    
 
 
-- [Z ????](https://leetcode-cn.com/problems/zigzag-conversion)����
+- [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion)    
 
-- [????](https://leetcode-cn.com/problems/reverse-integer)����
+- [整数反转](https://leetcode-cn.com/problems/reverse-integer)    
 
-- [](https://leetcode-cn.com/articles/reverse-integer)32.2%??8
+- [](https://leetcode-cn.com/articles/reverse-integer)32.2%简单8
 
-- [??????? (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)����
+- [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)    
 
-16.9%??9
+16.9%中等9
 
-- [???](https://leetcode-cn.com/problems/palindrome-number)����
+- [回文数](https://leetcode-cn.com/problems/palindrome-number)    
 
 
-- [???????](https://leetcode-cn.com/problems/regular-expression-matching)����
+- [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching)    
 
-22.4%??11
+22.4%困难11
 
-- [???????](https://leetcode-cn.com/problems/container-with-most-water)����
+- [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water)    
 
-- [???????](https://leetcode-cn.com/problems/integer-to-roman)����
+- [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman)    
 
-58.6%??13
+58.6%中等13
 
-- [???????](https://leetcode-cn.com/problems/roman-to-integer)����
+- [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer)    
 
-57.3%??14
+57.3%简单14
 
-- [??????](https://leetcode-cn.com/problems/longest-common-prefix)����
+- [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix)    
 
-- [](https://leetcode-cn.com/articles/longest-common-prefix)32.9%??15
+- [](https://leetcode-cn.com/articles/longest-common-prefix)32.9%简单15
 
-- [????](https://leetcode-cn.com/problems/3sum)����
+- [三数之和](https://leetcode-cn.com/problems/3sum)    
 
-21.9%??16
+21.9%中等16
 
-- [????????](https://leetcode-cn.com/problems/3sum-closest)����
+- [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest)    
 
-39.8%??17
+39.8%中等17
 
-- [?????????](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)����
+- [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)    
 
-48.7%??18
+48.7%中等18
 
-- [????](https://leetcode-cn.com/problems/4sum)����
+- [四数之和](https://leetcode-cn.com/problems/4sum)    
 
-34.9%??19
+34.9%中等19
 
-- [????????N???](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)����
+- [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)    
 
-- [?????](https://leetcode-cn.com/problems/valid-parentheses)����
+- [有效的括号](https://leetcode-cn.com/problems/valid-parentheses)    
 
 
-- [????????](https://leetcode-cn.com/problems/merge-two-sorted-lists)����
+- [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)    
 
-54.1%??22
+54.1%简单22
 
-- [????](https://leetcode-cn.com/problems/generate-parentheses)����
+- [括号生成](https://leetcode-cn.com/problems/generate-parentheses)    
 
-- [??K?????](https://leetcode-cn.com/problems/merge-k-sorted-lists)����
+- [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)    
 
-45.1%??24
+45.1%困难24
 
-- [??????????](https://leetcode-cn.com/problems/swap-nodes-in-pairs)����
+- [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)    
 
-59.0%??25
+59.0%中等25
 
-- [k???????](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)����
+- [k个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)    
 
-51.0%??26
+51.0%困难26
 
-- [???????????](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)����
+- [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)    
 
 
-- [????](https://leetcode-cn.com/problems/remove-element)����
+- [移除元素](https://leetcode-cn.com/problems/remove-element)    
 
 
-- [??strStr()](https://leetcode-cn.com/problems/implement-strstr)����
+- [实现strStr()](https://leetcode-cn.com/problems/implement-strstr)    
 
-38.0%??29
+38.0%简单29
 
-- [????](https://leetcode-cn.com/problems/divide-two-integers)����
+- [两数相除](https://leetcode-cn.com/problems/divide-two-integers)    
 
-17.9%??30
+17.9%中等30
 
-- [?????????](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)����
+- [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)    
 
-25.4%??31
+25.4%困难31
 
-- [?????](https://leetcode-cn.com/problems/next-permutation)����
+- [下一个排列](https://leetcode-cn.com/problems/next-permutation)    
 
 
-- [??????](https://leetcode-cn.com/problems/longest-valid-parentheses)����
+- [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses)    
 
-26.5%??33
+26.5%困难33
 
-- [????????](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)����
+- [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)    
 
-36.4%??34
+36.4%中等34
 
-- [?????????????????????](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)����
+- [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)    
 
-36.0%??35
+36.0%中等35
 
-- [??????](https://leetcode-cn.com/problems/search-insert-position)����
+- [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position)    
 
-43.3%??36
+43.3%简单36
 
-- [?????](https://leetcode-cn.com/problems/valid-sudoku)����
+- [有效的数独](https://leetcode-cn.com/problems/valid-sudoku)    
 
 
-- [???](https://leetcode-cn.com/problems/sudoku-solver)����
+- [解数独](https://leetcode-cn.com/problems/sudoku-solver)    
 
-52.3%??38
+52.3%困难38
 
-- [??](https://leetcode-cn.com/problems/count-and-say)����
+- [报数](https://leetcode-cn.com/problems/count-and-say)    
 
-49.3%??39
+49.3%简单39
 
-- [????](https://leetcode-cn.com/problems/combination-sum)����
+- [组合总和](https://leetcode-cn.com/problems/combination-sum)    
 
-64.1%??40
+64.1%中等40
 
-- [???? II](https://leetcode-cn.com/problems/combination-sum-ii)����
+- [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii)    
 
-54.7%??41
+54.7%中等41
 
-- [????????](https://leetcode-cn.com/problems/first-missing-positive)����
+- [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive)    
 
-35.2%??42
+35.2%困难42
 
-- [???](https://leetcode-cn.com/problems/trapping-rain-water)����
+- [接雨水](https://leetcode-cn.com/problems/trapping-rain-water)    
 
-43.4%??43
+43.4%困难43
 
-- [?????](https://leetcode-cn.com/problems/multiply-strings)����
+- [字符串相乘](https://leetcode-cn.com/problems/multiply-strings)    
 
-38.3%??44
+38.3%中等44
 
-- [?????](https://leetcode-cn.com/problems/wildcard-matching)����
+- [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching)    
 
-21.8%??45
+21.8%困难45
 
-- [???? II](https://leetcode-cn.com/problems/jump-game-ii)����
+- [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii)    
 
-29.9%??46
+29.9%困难46
 
-- [???](https://leetcode-cn.com/problems/permutations)����
+- [全排列](https://leetcode-cn.com/problems/permutations)    
 
-68.2%??47
+68.2%中等47
 
-- [??? II](https://leetcode-cn.com/problems/permutations-ii)����
+- [全排列 II](https://leetcode-cn.com/problems/permutations-ii)    
 
-51.8%??48
+51.8%中等48
 
-- [????](https://leetcode-cn.com/problems/rotate-image)����
+- [旋转图像](https://leetcode-cn.com/problems/rotate-image)    
 
-61.1%??49
+61.1%中等49
 
-- [???????](https://leetcode-cn.com/problems/group-anagrams)����
+- [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams)    
 
-- [](https://leetcode-cn.com/articles/group-anagrams)55.1%??50
+- [](https://leetcode-cn.com/articles/group-anagrams)55.1%中等50
 
-- [Pow(x, n)](https://leetcode-cn.com/problems/powx-n)����
+- [Pow(x, n)](https://leetcode-cn.com/problems/powx-n)    
 
-32.3%??
+32.3%中等
