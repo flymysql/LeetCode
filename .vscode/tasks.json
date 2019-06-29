@@ -2,16 +2,16 @@
     "tasks": [
         {
             "type": "shell",
-            "label": "g++.exe build active file",
-            "command": "D:\\App\\Mingw\\mingw32\\bin\\g++.exe",
+            "label": "g++ build active file",
+            "command": "/usr/bin/g++",
             "args": [
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}/${fileBasenameNoExtension}"
             ],
             "options": {
-                "cwd": "D:\\App\\Mingw\\mingw32\\bin"
+                "cwd": "/usr/bin"
             }
         }
     ],
